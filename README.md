@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsayed621" alt="ahmedsayed621" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ahmed_as671" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmed_as671?logo=twitter&style=for-the-badge" alt="@ahmed_as671" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmed_as671" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_as671?logo=twitter&style=for-the-badge" alt="ahmed_as671" /></a> </p>
 
 - 🔭 I’m currently working on **.Net and Angular Apps**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ahmed_as671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmed_as671" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmed_as671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_as671" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-sayed-090b54193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sayed-090b54193" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.bebo.74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.bebo.74" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_sayed._99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_sayed._99" height="30" width="40" /></a>
