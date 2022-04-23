@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sayed AbdelHamied</h1>
 <h3 align="center">A junior Full-Stack Developer(.Net,Angular+10)</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsayed621&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsayed621" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsayed621" alt="ahmedsayed621" /></a> </p>!-->
 
 <p align="left"> <a href="https://twitter.com/ahmed_as671" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_as671?logo=twitter&style=for-the-badge" alt="ahmed_as671" /></a> </p>
 
@@ -37,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsayed621&show_icons=true&locale=en" alt="ahmedsayed621" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsayed621&" alt="ahmedsayed621" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsayed621&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsayed621" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsayed621" alt="ahmedsayed621" /></a> </p>
