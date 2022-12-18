@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **.Net Microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedsayed621?tab=repositories](https://github.com/ahmedsayed621?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedsayed621?tab=repositories](Repositores)
 
 - 📫 How to reach me **Ahmed.s.abdelhamied@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-sayed-090b54193](https://www.linkedin.com/in/ahmed-sayed-090b54193)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DNSVnxtAKlF9rj4flXvWpY7yVsXWRdhz/view?usp=sharing](MyResume)
 
 - ⚡ Fun fact **A good programmer is someone who looks both ways before crossing a one-way street.**
 
