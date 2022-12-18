@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net Microservices**
 
-- 👨‍💻 All of my projects are available at [Repositories]([Repositores](https://github.com/ahmedsayed621?tab=repositories))
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/ahmedsayed621?tab=repositories)
 
 - 📫 How to reach me **Ahmed.s.abdelhamied@gmail.com**
 
